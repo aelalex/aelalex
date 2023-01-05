@@ -6,6 +6,8 @@ In my [dissertation](https://www.didaktorika.gr/eadd/browse?type=author&order=AS
 The outcome of the the work was 10 publications in peer-reviewed journals including 7 first author papers. 
 Currently, I am an Associate researcher at NCSR "DEMOKRITOS" in Greece working in multiphase flows and my main task is to extend the existing computational fluid particles dynamic code.
 Due to my research I have acquired significant skills in:
-+ Scientific software development,
-+ advanced simulations,
-+ data analysis
++ Scientific software development with Fortran and Matlab,
++ Parallel programming in HPC systems with MPI and OpenMP
++ Advanced simulations with COMSOL and Ansys Fluent,
++ Data analysis with Excel, Matlab and Python Pandas
++ Data visualization with Tecplot360, Matlab and Python Matplotlib
