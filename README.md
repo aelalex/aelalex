@@ -12,4 +12,4 @@ Due to my research I have acquired significant skills in:
 + Data analysis with Excel, Matlab and Python Pandas
 + Data visualization with Tecplot360, Matlab and Python Matplotlib
 
-My publications are found [here](https://www.researchgate.net/profile/Alexandros-Tsimpoukis).
+My publications are found [here](https://www.researchgate.net/profile/Alexandros-Tsimpoukis/research).
