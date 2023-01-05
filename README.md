@@ -1,5 +1,4 @@
 Hello and welcome to my profile!
-```markdown
 #About me 
 
 I am computational scientist working in rarefied gas and multiphase flows with 6+ years of experience in research. I earned my PhD in early 2020 (just before the pandemic!) from the University of Thessaly in Greece. 
@@ -11,4 +10,3 @@ Currently, I am an Associate researcher at NCSR "DEMOKRITOS" in Greece working i
 • Author of 9 publications in peer-reviewed journals including 6 first author papers
 • Scientific software development, advanced simulations, data analysis and other computational
   techniques applied to research problems in fluid dynamics
-```
