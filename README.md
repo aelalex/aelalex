@@ -11,3 +11,5 @@ Due to my research I have acquired significant skills in:
 + Advanced simulations with COMSOL and Ansys Fluent,
 + Data analysis with Excel, Matlab and Python Pandas
 + Data visualization with Tecplot360, Matlab and Python Matplotlib
+
+My publications are found [here](https://www.researchgate.net/profile/Alexandros-Tsimpoukis).
